@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou Paulo Ricardo Ferreira 👋
 
-<!--
-**paulorifer/paulorifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – Mackenzie
 
-Here are some ideas to get you started:
+💻 Atualmente estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Lógica de programação
+* HTML
+* JavaScript
+* Git/GitHub
+
+🚀 Desenvolvendo projetos práticos para evolução na área de tecnologia e buscando oportunidade de estágio em TI.
+
+## Projetos em destaque
+
+* Jornada Herói 1 ao 99
+* Sistema Petshop
+* Projeto Cadastro HTML
+
+## Interesses
+
+* Desenvolvimento Backend
+* Tecnologia Corporativa
+* Automação
+* Suporte TI
+* Análise de Dados
+* Inteligência Artificial
