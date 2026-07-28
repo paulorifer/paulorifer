@@ -14,7 +14,7 @@
 
 ## Projetos em destaque
 
-* ProjetoConibase(pedidos)
+* Projeto Conibase
 * Jornada Herói 1 ao 99
 * Pagina Petshop (Faculdade)
 
