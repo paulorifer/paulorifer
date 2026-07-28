@@ -20,9 +20,8 @@
 
 ## Interesses
 
-* Desenvolvimento Backend
-* Tecnologia Corporativa
-* Automação
 * Suporte TI
+* Tecnologia Corporativa
+* Desenvolvimento Backend
+* Automação
 * Análise de Dados
-* Inteligência Artificial
