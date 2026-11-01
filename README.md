@@ -14,7 +14,8 @@
 
 ## Projetos em destaque
 
-* Projeto Conibase
+* Projeto Retiradas
+* Projeto Shield-estoque
 * Jornada Herói 1 ao 99
 * Pagina Petshop (Faculdade)
 
