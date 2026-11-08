@@ -19,14 +19,17 @@ Meu aprendizado envolve lógica de programação, manipulação básica e persis
 
 ### 🚀 Projetos em destaque
 
-#### [Conibase](https://github.com/paulorifer/conibase)
+#### [Controle de Retiradas](https://github.com/paulorifer/controle-de-retiradas)
 Sistema de controle de estoque e retirada de mercadorias desenvolvido em Python.
 O projeto surgiu a partir de uma necessidade identificada no meu ambiente de trabalho, com o objetivo de organizar o cadastro de produtos, facilitar consultas por cliente e acompanhar as retiradas.
 
 **Principais recursos:**
 - Cadastro de produtos e informações dos clientes.
+
 - Busca de registros por CPF.
+
 - Controle de retirada de mercadorias.
+
 - Armazenamento persistente dos dados em JSON.
 
 #### [Shield Estoque](https://github.com/paulorifer/shield-estoque)
